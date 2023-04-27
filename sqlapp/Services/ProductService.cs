@@ -6,7 +6,7 @@ namespace sqlapp.Services
     public class ProductService
     {
 
-        private static string db_source = "trial-db.database.windows.net";
+        private static string db_source = "webapplication2048.azurewebsites.net";
         private static string db_user = "marwaan";
         private static string db_password = "Cannonbolt1@";
         private static string db_database = "appdb";
